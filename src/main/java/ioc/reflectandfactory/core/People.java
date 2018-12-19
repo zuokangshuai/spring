@@ -1,7 +1,7 @@
 package ioc.reflectandfactory.core;
 
 /**
- * @description 抽象类人
+ * @description 抽象类
  * @author Kangshuai Zuo
  * @date 2018/12/19 16:33
  */
